@@ -2,7 +2,7 @@
   "basics": {
     "name": "Weixiao Hu",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png", //change picture
+    "picture": "https://techfolios.github.io/template/images/molly.png",
     "email": "weixiaoh@hawaii.edu",
     "phone": "",
     "website": "https://wxh23285815.github.io",
@@ -27,7 +27,6 @@
       }
     ]
   },
-  // change 9/2/19
   "interests": [
     {
       "name": "internet of things",
