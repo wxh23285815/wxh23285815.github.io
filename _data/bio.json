@@ -6,7 +6,7 @@
     "email": "weixiaoh@hawaii.edu",
     "phone": "",
     "website": "https://wxh23285815.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -60,28 +60,26 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "UH Kapiolani Community College, Honolulu, HI",
+      "area": "Liberal Arts and Sciences/Liberal Studies",
+      "studyType": "A.A.",
+      "startDate": "2014",
+      "endDate": "2018",
       "gpa": "",
       "courses": [
       ]
     },
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Information & Computer Science",
+      "studyType": "B.A.",
+      "startDate": "2018",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -129,7 +127,7 @@
       ]
     }
   ],
-  "awards": [
+/*  "awards": [
     {
       "title": "B+ Scholarship",
       "date": "2013-Present",
@@ -142,7 +140,7 @@
       "awarder": "University of Hawaii Micromouse Competition",
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
-  ],
+  ],*/
   "references": [
     {
       "name": "Available upon request",
