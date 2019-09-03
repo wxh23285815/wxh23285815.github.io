@@ -86,7 +86,7 @@
       ]
     }
   ],
-  "work": [
+/*  "work": [
     {
       "company": "UH Manoa Board of Publications",
       "position": "Web Developer",
@@ -127,7 +127,7 @@
       ]
     }
   ],
-/*  "awards": [
+  "awards": [
     {
       "title": "B+ Scholarship",
       "date": "2013-Present",
