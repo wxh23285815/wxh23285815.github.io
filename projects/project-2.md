@@ -13,7 +13,7 @@ labels:
 summary: Mālama I Nā Ahupuaʻa (MINA) a service learning that I participated in BOT 105.
 ---
 
-
+<img class="ui tiny left circular floated image" src="../images/paintbrushes.jpg">
 
 // CHANGE CONTENT
 
