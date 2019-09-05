@@ -28,21 +28,30 @@
     ]
   },
   "interests": [
-    {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+    {  
+      "name": "Software Development",
       "keywords": [
       ]
     },
-    {
-      "name": "artificial intelligence",
+    }  
+      "name": "Map Design",
       "keywords": [
+      ]
+    },
+    {  
+      "name": "Game Development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "animation",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "MMO",
+      "keywords": [
+        "Massively Multiplayer Online Game"
       ]
     }
   ],
