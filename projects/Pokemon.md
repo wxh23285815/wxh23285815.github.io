@@ -14,7 +14,7 @@ labels:
   - GitKraken
 summary: 
 ---
-<img class="ui medium right floated rounded image" src="../images/pokegui.PNG">
+<img class="ui floated rounded image" src="../images/pokegui.PNG">
 
 
 
