@@ -1,1 +1,13 @@
-
+---
+layout: project
+type: project
+published: ture
+image: 
+title: Name Tag (Art GUI)
+permalink: projects/Art GUI
+# All dates must be YYYY-MM-DD format!
+date: 2017-12-11
+labels:
+  - Java
+summary: An Java GUi art name tag developed at ICS 111.
+---
