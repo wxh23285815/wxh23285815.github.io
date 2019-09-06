@@ -14,3 +14,13 @@ labels:
   - GitKraken
 summary: 
 ---
+<img class="ui medium right floated rounded image" src="../images/pokegui.PNG">
+
+
+
+
+
+
+
+
+Source: <a href="https://github.com/ICSatKCC/a9-pokemon-gui-f18-wxh23285815/tree/develop"><i class="large github icon"></i>Github Project [PokeGUI]</a>
