@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ..images/poke.PNG
+image: images/poke.PNG
 title: Java Pokedex GUI
 permalink: projects/PokeGUI
 # All dates must be YYYY-MM-DD format!
