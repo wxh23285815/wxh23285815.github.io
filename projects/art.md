@@ -11,3 +11,15 @@ labels:
   - Java
 summary: An Java GUi art name tag developed at ICS 111.
 ---
+
+
+Code example of the Java GUI:  
+
+<hr>
+
+<pre>
+
+
+</pre>
+
+<hr>
