@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: ture
-image: 
+image: images/art.PNG
 title: Name Tag (Art GUI)
 permalink: projects/Art GUI
 # All dates must be YYYY-MM-DD format!
