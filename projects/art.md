@@ -14,7 +14,7 @@ summary: An Java GUi art name tag developed at ICS 111.
 
 <img class="ui medium right floated rounded image" src="../images/art.PNG">
 
-The art GUI name tag is the last assignment that I created for ICS 111. This assignment is to let the programmer get familiar with the java GUI coding style and properties. In a week, I try to use all I learn about the GUI word font, color, shape, and layout to look more artistic. It was a a fun experience to use GUI to some art.
+The art GUI name tag is the last assignment that I created for ICS 111. This assignment is to let the programmer get familiar with the Java GUI coding style and properties. In a week, I try to use all I learn about the GUI word font, color, shape, and layout to look more artistic. It was a fun experience to use GUI to some art.
 
 Code example of the Java GUI:  
 
