@@ -12,7 +12,7 @@ labels:
   - Sustainability
 summary: Mālama I Nā Ahupuaʻa (MINA) service learning that I participated in BOT 105.
 ---
-<img class="ui image" src="../images/ahupuaa.jpg">
+<img class="ui floated rounded image" src="../images/ahupuaa.jpg">
 
 Mālama I Nā Ahupuaʻa (MINA) is a service learning that I participated in BOT 105, at Spring 2106. The service learning project helped me learn and understand the traditional cultures, practices, and beliefs of the Hawaiian people and lands.
 
