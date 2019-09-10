@@ -20,5 +20,6 @@ Mālama I Nā Ahupuaʻa is a first-hand experience for young people to see and l
 
 In this project, I learn many new things about the Hawaii culture, for example, planting Taro for the traditional system, building a fish pond by the beach, and learn the practices of the Hawaiian temple. Mālama I Nā Ahupuaʻa is a great experience for anyone to learn about Hawaii.
 
+<hr>
 Source: <a href="http://socialsciences.hawaii.edu/access/engagement/mina.html"> Mālama I Nā Ahupuaʻa (MINA)</a> ,
 <a href="https://www.kapiolani.hawaii.edu/wp-content/uploads/2018/12/MalamaMINAPoster.pdf"> Malama MINA Poster</a> 
