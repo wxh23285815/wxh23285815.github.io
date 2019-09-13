@@ -18,9 +18,9 @@ labels:
 ## StackOverflow
 
 <img class="ui floated rounded image" src="../images/goodQ.PNG"> 
-[Run async function every n seconds, wait if async function takes longer than n seconds](https://stackoverflow.com/questions/57913896/run-async-function-every-n-seconds-wait-if-async-function-takes-longer-than-n-s) is a good example of how a good question should be asked. In this case, the questioner declares a question directly asking answer in a specific function and method. Which it identifies the method he/she is using and process and outcome of the resole that he/she wanted.
+["Run async function every n seconds, wait if async function takes longer than n seconds"](https://stackoverflow.com/questions/57913896/run-async-function-every-n-seconds-wait-if-async-function-takes-longer-than-n-s) is a good example of how a good question should be asked. In this case, the questioner declares a question directly asking answer in a specific function and method. Which it identifies the method he/she is using and process and outcome of the resole that he/she wanted.
 
+<img class="ui floated rounded image" src="../images/badQ.PNG"> ["Broken switch statement in TypeScript"](https://stackoverflow.com/questions/57914904/broken-switch-statement-in-typescript) is a bad example of a question. In this questioner case, the question is unorganized and misleading. The form of the question is a mix of random key worlds and without any detail to support or provide the answer he/she wants.
 
-<img class="ui floated rounded image" src="../images/badQ.PNG"> [Broken switch statement in TypeScript](https://stackoverflow.com/questions/57914904/broken-switch-statement-in-typescript)
-
+Those questions provide a clear value of how a good question helps one at their education and the way to ask a good question. Sometimes, a good question is better than just reading about some material.
 
