@@ -27,3 +27,4 @@ easier to operate and layout the menu, information, and elements on the webpage.
 
 <img class="ui floated rounded image" src="../images/UI.png">
 
+Overall, the UI Frameworks is a useful style front-end development framework. By combining CSS and UI, it's easy to set up a friendly website, and better than using only CSS to layout a website.
