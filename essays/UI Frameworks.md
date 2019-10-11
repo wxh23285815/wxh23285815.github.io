@@ -21,6 +21,6 @@ UI Frameworks are a modern front-end development framework of a coding language,
   CSS is a stylesheet language, and compare to UI, UI is the extent of CSS. CSS is a simple stylesheet language to set the background, color, word font, size, and layout of a website. However, UI is more focus on the layout and elements. The elements of UI are the button, icon, input, placeholder, label, list, divider, and more. Which the UI makes the coding easier to operate and layout the menu, information, and elements of the webpage.
   
 
-<img class="ui floated image" src="../images/UI.png">
+<img class="ui rounded image" src="../images/UI.png">
 
 Overall, the UI Frameworks are a useful style front-end development framework. By combining CSS and UI, it's easy to set up a friendly website, and better than using only CSS to layout a website.
