@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: false
-image: images/
+image: images/HACC.PNG
 title: Malama Hawaii (HACC)
 permalink: projects/ Malama Hawaii (HACC)
 # All dates must be YYYY-MM-DD format!
