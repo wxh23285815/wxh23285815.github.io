@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: false
-image: images/ 
+image: images/HACC.PNG
 title: Healthy Manoa
 permalink: projects/ Healthy Manoa
 # All dates must be YYYY-MM-DD format!
