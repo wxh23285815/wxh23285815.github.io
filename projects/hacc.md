@@ -16,3 +16,11 @@ labels:
   - Galaxy
 summary: A a challenge of Hawai'i annual code challenge to sustain Hawaii's life and living.
 ---
+
+<img class="ui floated rounded image" src="../images/full_width.png">
+
+## HACC (Hawai'i annual code challenge)
+
+## 600IQ (Team)
+
+<img class="ui floated rounded image" src="../images/HACC.PNG">
