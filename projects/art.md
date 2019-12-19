@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-published: ture
+published: false
 image: images/art.PNG
 title: Name Tag (Art GUI)
 permalink: projects/Art GUI
