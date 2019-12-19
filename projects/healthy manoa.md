@@ -15,9 +15,12 @@ labels:
   - Galaxy
 summary: A project for improving students' living and diet at UH Manoa.
 ---
+<hr>
+
+[UH Manoa Food Services](http://manoa.hawaii.edu/food/) for Students
 <img class="ui floated rounded image" src="../images/manoa food.PNG">
 
-[UH Manoa Food Services](http://manoa.hawaii.edu/food/)
+<hr>
 
 ## ICS 314 Project
 
