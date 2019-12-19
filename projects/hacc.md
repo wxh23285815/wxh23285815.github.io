@@ -1,7 +1,6 @@
 ---
 layout: project
 type: project
-published: false
 image: images/HACC.PNG
 title: Malama Hawaii (HACC)
 permalink: projects/ Malama Hawaii (HACC)
