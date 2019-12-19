@@ -60,7 +60,14 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "Java"
+        "Java", 
+        "C", 
+        "C++",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "UI",
+        "React"
       ]
     },
     {
@@ -68,7 +75,9 @@
       "level": "",
       "keywords": [
         "Git/GitHub",
-        "Windows"
+        "Windows", 
+        "intellij IDEA",
+        "Meteor"
       ]
     }
   ],
@@ -93,11 +102,6 @@
       "courses": [
       ]
     }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
   ]
+  
 }
