@@ -16,11 +16,10 @@ Software Engineers create and develop application tool and website to suit the n
 
 #### ICS 414
 
-ICS 414 software engineering II, a course provided for computer engineers, software engineers, and computer science students. It is a continuation of ICS 314, which lets students experience learning web development, and additionally develop students' project management, quality, and productivity control, testing and validation, team management skills. In the ICS 414 course, students were placed in a team-oriented software-implementation project to develop a working web app for an actual customer. The customer was The Hawaii H.O.M.E. Project organization, and in the project, students must develop an application tool or website to track and manage the medicine and medical supply item.
+ICS 414 software engineering II, a course provided for computer engineers, software engineers, and computer science students. It is a continuation of ICS 314, which lets students experience learning web development, and additionally develop students' project management, quality, and productivity control, testing and validation, and team management skills. In the ICS 414 course, students were placed in a team-oriented software-implementation project to develop a working web app for an actual customer. The customer was The Hawaii H.O.M.E. Project organization, and in the project, students must develop an application tool or website to track, manage, and organize the medicine and medical supply item its own.
 
 <img class="ui rounded image" src="../images/hawaii home project.jpg">
 
 #### Med-Warriors Project 
-
 
 https://med-warriors.github.io/
