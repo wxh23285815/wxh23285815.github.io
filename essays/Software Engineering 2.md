@@ -12,7 +12,7 @@ labels:
 
 ## Software Engineer Job
 
-Software Engineer create and develop application tool and website to suit the need of people. Often the software engineer's work extends to many different fields in the community and economy, like medical, food service, business, government, military, and etc. As a software engineer, we need to explore and learn the work process and things in the different fields to engage in our only software engineering work.
+Software Engineers create and develop application tool and website to suit the need of people. Often the software engineer’s work extends to many different fields in the community and economy, like medical, food service, business, government, military, and etc. As software engineers, we need to explore and learn the work process and things in the different fields to engage in our only software engineering work.
 
 #### ICS 414
 
@@ -23,3 +23,4 @@ ICS 414 software engineering II, a course provided for computer engineers, softw
 #### Med-Warriors Project 
 
 
+https://med-warriors.github.io/
