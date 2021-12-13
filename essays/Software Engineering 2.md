@@ -1,7 +1,6 @@
 ---
 layout: essay
 type: essay
-published: true
 title: Life as Software Engineer
 # All dates must be YYYY-MM-DD format!
 date: 2021-12-11
