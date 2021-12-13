@@ -25,4 +25,5 @@ ICS 414 software engineering II, a course provided for computer engineers, softw
 
 In the ICS 414, I was assigned to a team for a software-implementation project and we name our team as Med-Warriors. For the software-implementation project, we created a database website with the collection database to track the medicine and medical supply. Addcationly, we implemented input and output to systems to manage and organize the medicine and medical supply in their storage. In the website development process, our team focuses on three things that are IDPM review, unit testing, and acceptance testing. As a team reviewed and tested the functions, pages, and components in the app, and slowly in the development process we improve our teamwork and project management skill.  
 
-https://med-warriors.github.io/
+<a href="https://med-warriors.github.io/ ">Visit med-warriors.github.io</a>
+
