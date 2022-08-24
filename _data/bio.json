@@ -44,7 +44,7 @@
       ]
     },
     {
-      "name": "animation",
+      "name": "Animation",
       "keywords": [
       ]
     },
@@ -53,12 +53,16 @@
       "keywords": [
         "Massively Multiplayer Online Game"
       ]
-    }
+    },
+    {
+      "name": "Game/Puzzle",
+      "keywords": [
+      ]
+    },
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "level": "",
+      "name": "Coding Languages and Frameworks",
       "keywords": [
         "Java", 
         "C", 
