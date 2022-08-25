@@ -63,7 +63,7 @@
   "skills": [
     {
       "name": "Coding Languages and Frameworks",
-      "level": "",
+      "level": "Entry Level",
       "keywords": [
         "Java", 
         "C", 
@@ -77,7 +77,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "level": "",
+      "level": "Intermediate Level",
       "keywords": [
         "Git/GitHub",
         "Windows", 
