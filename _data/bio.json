@@ -62,7 +62,7 @@
   ],
   "skills": [
     {
-      "name": "Coding Languages and Frameworks",
+      "name": "Languages and Frameworks",
       "level": "Entry Level",
       "keywords": [
         "Java", 
@@ -132,6 +132,28 @@
       "endDate": "2022",
       "gpa": "3.4",
       "courses": [
+        "ES 340 - Land Tenure and Use in Hawaii ",
+        "FDM 338 - 2D/3D Computer-Aided Design",
+        "GEO 476 - Web Mapping",
+        "ICS 212 - Program Structure  ",
+        "ICS 222 - Basic Concepts of Comp. Sci.  ",
+        "ICS 235 - Machine Learning Methods",
+        "ICS 241 - Discrete Mathematics II  ",
+        "ICS 311 - Algorithms ",
+        "ICS 314 - Software Engineering I  ",
+        "ICS 321 - Database Systems I",
+        "ICS 332 - Operating Systems  ",
+        "ICS 355 - Security and Trust I",
+        "ICS 414 - Software Engineering II ",
+        "ICS 423 - Data Security & Cryptography I",
+        "ICS 451 - Data Networks",
+        "ICS 495 - Special Security Topic",
+        "IP 370 - PHL Travelogue: People, Places",
+        "MATH 140 -	Precalc:Trig/Analytic Geometry",
+        "MATH 241 -	Calculus I",
+        "MATH 242 -	Calculus II ",
+        "PACE 387 - Meaning of War ",
+        "SLS 302 - Second Language Learning",
       ]
     }
   ]
