@@ -63,6 +63,7 @@
   "skills": [
     {
       "name": "Coding Languages and Frameworks",
+      "level": "",
       "keywords": [
         "Java", 
         "C", 
@@ -81,7 +82,8 @@
         "Git/GitHub",
         "Windows", 
         "intellij IDEA",
-        "Meteor"
+        "Meteor",
+        "Microsoft Office"
       ]
     }
   ],
@@ -92,8 +94,34 @@
       "studyType": "A.A.",
       "startDate": "2014",
       "endDate": "2018",
-      "gpa": "",
+      "gpa": "3.0",
       "courses": [
+        "ANTH 200 - Cultural Anthropology",
+        "ART 101 - Introduction to Visual Arts",
+        "ART 113 - Introduction to Drawing",
+        "ART 116 - Intro to 3D Composition",
+        "BIOL 101 - Intro to Sci: Biol Sciences",
+        "BOT 105 - H-Ethnobotany, S-Focus",
+        "BUS 120 - Principles of Business",
+        "CHNS	290	- Chinese Language and Culture", 
+        "COM 201 - WI-Intro to Communication",
+        "EALL	262	- WI-Chns Lit in Trans after 850",
+        "ESOL 92 - High Intermediate ESOL (English for Speakers of Other Languages)",
+        "ESOL	94 - Advanced ESOL",
+        "ESL 100 - Composition I",
+        "ESS 100 - Intro to Wellness & Fitness",
+        "GG	103 - Geology of Hawaiian Islands", 
+        "GG	101L - Intro to Physical Geology Lab",
+        "HIST 152	- World History since 1500",
+        "HWST 107	- Hawai`i: Center of the Pacific",
+        "ICS 101 - Digital Tools Info World",
+        "ICS 111 - Intro to Computer Science I",
+        "ICS 141 - Discrete Math for CS I",
+        "ICS 211 - Intro to Computer Science II",
+        "MATH 103	- Fundamentals of Coll Algebra",
+        "MATH	135	- Precalc: Elementary Functions",
+        "MUS 107 - Music in World Cultures",
+        "SP	151	- Personal and Public Speech",
       ]
     },
     {
@@ -101,8 +129,8 @@
       "area": "Information & Computer Science",
       "studyType": "B.A.",
       "startDate": "2018",
-      "endDate": "Present",
-      "gpa": "",
+      "endDate": "2022",
+      "gpa": "3.4",
       "courses": [
       ]
     }
