@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Weixiao Hu",
-    "label": "Student",
+    "label": "BA Graduated Student",
     "picture": "https://wxh23285815.github.io/images/wh.jpg",
     "email": "weixiaoh@hawaii.edu",
     "phone": "",
@@ -63,18 +63,18 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "Entry Level",
       "keywords": [
-        "Java", 
-        "C", 
-        "C++",
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "UI",
-        "React"
+        "Java (Entry Level) ", 
+        "C (Entry Level)", 
+        "C++ (Entry Level)",
+        "HTML (Entry Level)",
+        "CSS (Entry Level)",
+        "JavaScript (Entry Level)",
+        "UI (Entry Level)",
+        "React (Entry Level)",
+        "SQL (Entry Level)"
       ],
-      "summary": "Entry Level"
     },
     {
       "name": "Toolsets/OS",
