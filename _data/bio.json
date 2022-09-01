@@ -6,7 +6,7 @@
     "email": "weixiaoh@hawaii.edu",
     "phone": "",
     "website": "https://wxh23285815.github.io",
-    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I graduated in Spring, 2022.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -62,7 +62,19 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "personal skills",
+      "level": "",
+      "keywords": [
+        "Bilingual (English and Chinese - ([Mandarin, Cantonese])",
+        "Fast-Learner",
+        "Adaptability",
+        "Motivation",
+        "Problem-Solving",
+        "Analytical Skills"
+      ],
+    },
+    {
+      "name": "Coding Languages and Frameworks",
       "level": "Entry Level",
       "keywords": [
         "Java (Entry Level) ", 
