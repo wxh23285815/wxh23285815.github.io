@@ -62,10 +62,10 @@
   ],
   "skills": [
     {
-      "name": "personal skills",
+      "name": "Personal Skills",
       "level": "",
       "keywords": [
-        "Bilingual (English and Chinese - ([Mandarin, Cantonese])",
+        "Bilingual (English & Chinese: Both Mandarin and Cantonese)",
         "Fast-Learner",
         "Adaptability",
         "Motivation",
@@ -171,17 +171,7 @@
     }
   ],
   "work": [
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        
-      ]
-    }
+    
   ],
   "references": [
     {
