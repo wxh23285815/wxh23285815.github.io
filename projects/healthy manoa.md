@@ -13,6 +13,7 @@ labels:
   - React
   - GitHub
   - Galaxy
+  - UH Manoa
 summary: A project for improving students' living and diet at UH Manoa.
 ---
 <hr>
