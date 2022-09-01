@@ -12,6 +12,7 @@ labels:
   - Eclipse 
   - GitHub
   - GitKraken
+  - KCC
 summary: Pokedex GUI was a program using Java, jGrasp, and Eclipse GUI designer to imitate the ctach system of Pokemon game.
 ---
 <img class="ui floated rounded image" src="../images/pokegui.PNG">
