@@ -1,61 +1,40 @@
 ---
 layout: project
 type: project
-published: false
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+published: true
+image: images/landing-page1.png
+title: Med-Warriors
+permalink: projects/Med-Warriors
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2021-12-09
 labels:
-  - Lisp
+  - Meteor
+  - JavaScript
+  - UI
+  - React
   - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Galaxy
+  - ICS 414
+summary: In-class real-world job project of creating a working database application on website and mobile devices. 
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<hr>
+## Hawaii H.O.M.E. Project
+ <img class="ui floated rounded image" src="../images/EmbeddedImage.png">
+The Hawaii H.O.M.E. (Homeless Outreach & Medical Education) Project is a volunteer project founded by John A. Burns School of Medicine (JABSOM) student 
+and University of Hawaii premedical students. The project main force is to improve the quality and access to health care for individuals in Hawaii that experiencing houselessness. 
+Also, increasing student and physician awareness and understanding of the houseless and their healthcare needs.
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
-
-To give you a flavor of the game, here is an excerpt from one run:
+## Med-Warriors
+<img class="ui floated rounded image" src="../images/landing-page1.png">
+In the Manoa class ICS 414 of fall-21, the professor assign the customer Hawaii H.O.M.E. Project to the class, 
+and ask to us to create a working database application for they managing and maintain the medication and medical supply which it own. 
+I was assign to a group of 7, we come up the group name Med-Warriors and we use the same name for the app.
+For the application project, we use GitHub and Meteor to setup a private database。
+In the process developing the app, we faced a lot of problems. 
+The most troubles are that app users often is volunteer which making set private access difficult and setup of database use the medication product code.
+In the end, we create a simple working application and customer was satisfied, but still they want a more better app and continue let other people or use the app as a base.
 
 <hr>
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://med-warriors.github.io/"><i class="large github icon "></i>med-warriors.github.io</a>
