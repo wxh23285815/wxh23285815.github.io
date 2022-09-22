@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-published: false
+published: true
 image: images/3D_outfit set3_weixiao_Variant1_Front.jpg
 title: Cotton
 permalink: projects/cotton
