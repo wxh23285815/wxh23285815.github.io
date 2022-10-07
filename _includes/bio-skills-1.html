@@ -14,7 +14,9 @@
     {% if entry.keyword %}
       <ul style="margin: 0px;">
         {% for keyword in entry.keyword %}
+        {% if forloop.last != true %}
           <li>{{ keyword }}</li>
+        {% endif %}
         {% endfor %}
       </ul>
     {% endif %}
