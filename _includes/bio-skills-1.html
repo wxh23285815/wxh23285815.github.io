@@ -12,11 +12,13 @@
       <p class="ui no-bottom">
       <b>{{ entry.name }}:</b>
          {% if forloop.last != true %}
+        {% for keyword in entry.keywords %}
         <ul style="margin: 0px;">
-          {% for keyword in entry.keywords %}
+          
             <li>{{ keyword }}</li>
-          {% endfor %}
+          
         </ul>
+      {% endfor %}
       {% endif %}
       </p>
     {% endfor %}
