@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image: images/3D_outfit set3_weixiao_Variant1_Front.jpg
-title: Cotton
+title: 3D Computer-Aided Design
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
