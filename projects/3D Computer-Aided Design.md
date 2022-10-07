@@ -4,9 +4,9 @@ type: project
 published: true
 image: images/3D_outfit set3_weixiao_Variant1_Front.jpg
 title: 3D Computer-Aided Design
-permalink: projects/cotton
+permalink: projects/3D Computer-Aided Design
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2022-05-12
 labels:
   - Adobe Illustrator
   - Adobe Photoshop
