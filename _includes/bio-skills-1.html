@@ -10,16 +10,14 @@
     <p class="ui no-bottom">
     {% for entry in site.data.bio.skills %}
       <p class="ui no-bottom">
-      <b>{{ entry.name }}:</b>   
-    {% if entry.keyword %}
+      <b>{{ entry.name }}:</b>
+      {% for keyword in entry.keyword %}   
       <ul style="margin: 0px;">
-        {% for keyword in entry.keyword %}
         {% if forloop.last != true %}
           <li>{{ keyword }}</li>
         {% endif %}
-        {% endfor %}
       </ul>
-    {% endif %}
+      {% endfor %}
       </p>
     {% endfor %}
 
