@@ -71,7 +71,7 @@
         "Motivation",
         "Problem-Solving",
         "Analytical Skills"
-      ]
+      ],
     },
     {
       "name": "Coding Languages and Frameworks",
@@ -86,7 +86,7 @@
         "UI (Entry Level)",
         "React (Entry Level)",
         "SQL (Entry Level)"
-      ]
+      ],
     },
     {
       "name": "Toolsets/OS",
@@ -97,7 +97,7 @@
         "intellij IDEA",
         "Meteor",
         "Microsoft Office"
-      ]
+      ],
     }
   ],
   "education": [
