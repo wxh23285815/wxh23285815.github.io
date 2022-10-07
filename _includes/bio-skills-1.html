@@ -11,16 +11,15 @@
     {% for entry in site.data.bio.skills %}
       <p class="ui no-bottom">
       <b>{{ entry.name }}:</b>
-      {% for keyword in entry.keyword %}   
-      <ul style="margin: 0px;">
-        {% if forloop.last != true %}
-          <li>{{ keyword }}</li>
-        {% endif %}
-      </ul>
-      {% endfor %}
+      {% if forloop.last != true %}
+        {% for keyword in entry.keyword %}
+          <ul style="margin: 0px;">
+            <li>{{ keyword }}</li>
+          </ul>
+        {% endfor %}
+      {% endif %}
       </p>
     {% endfor %}
-
   </div>
 </div>
 {% endif %}
